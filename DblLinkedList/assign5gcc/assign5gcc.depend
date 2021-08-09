@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1510064254 source:/home/keith/Documents/AI_Fall2017/VGP240/Assignments/assign5/assign5gcc/assign5vs.cpp
+	"dlinkedlist.h"
+
+1510064483 /home/keith/Documents/AI_Fall2017/VGP240/Assignments/assign5/assign5gcc/dlinkedlist.h
+	<iostream>
+	<string>
+
+1511877081 source:/home/keith/Documents/AI/AI_Fall2017/VGP240/Assignments/assign5/assign5gcc/assign5vs.cpp
+	"dlinkedlist.h"
+
+1511877789 /home/keith/Documents/AI/AI_Fall2017/VGP240/Assignments/assign5/assign5gcc/dlinkedlist.h
+	<iostream>
+	<string>
+
